@@ -2,7 +2,7 @@
 
 [![psgallery](https://img.shields.io/powershellgallery/v/poshlog.sinks.exceptionless.svg)](https://www.powershellgallery.com/packages/PoShLog.Sinks.Exceptionless) [![PowerShell Gallery](https://img.shields.io/powershellgallery/p/poshlog.sinks.exceptionless?color=blue)](https://www.powershellgallery.com/packages/PoShLog.Sinks.Exceptionless) [![psgallery](https://img.shields.io/powershellgallery/dt/PoShLog.Sinks.Exceptionless.svg)](https://www.powershellgallery.com/packages/PoShLog.Sinks.Exceptionless) [![Discord](https://img.shields.io/discord/693754316305072199?color=orange&label=discord)](https://discord.gg/gGFtbf)
 
-PoShLog.Sinks.Exceptionless is extension module for [PoShLog](https://github.com/PoShLog/PoShLog) logging module.
+PoShLog.Sinks.Exceptionless is extension module for [PoShLog](https://github.com/PoShLog/PoShLog) logging module. Contains sink that publishes log messages to [Exceptionless.com](https://exceptionless.com/).
 
 ## Getting started
 
