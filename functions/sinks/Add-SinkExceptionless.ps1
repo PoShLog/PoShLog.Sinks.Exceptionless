@@ -11,7 +11,7 @@ function Add-SinkExceptionless {
 		[string]$ServerUrl = $null,
 
 		[Parameter(Mandatory = $false)]
-		[System.Func[Exceptionless.EventBuilder, Exceptionless.EventBuilder]]$AdditionalOperation = $null,
+		[System.Func``2[Exceptionless.EventBuilder, Exceptionless.EventBuilder]]$AdditionalOperation = $null,
 
 		[Parameter(Mandatory = $false)]
 		[bool]$IncludeProperties = $true,
